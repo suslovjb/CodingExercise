@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  CodingExercise
+
+  Created by Suslov Babu on 29/09/17.
+  Copyright © 2017 Suslov Babu. All rights reserved.
+*/
+
+"No results found!" = "No results found!";
+"Failed to load video" = "Failed to load video";
+"No Internet connectivity" = "No Internet connectivity";
+"Invalid Url" = "Invalid Url";
+"Unable to fetch data." = "Unable to fetch data.";
+"Login" = "Login";
